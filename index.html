@@ -2,17 +2,14 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<div class="home">
+  <h1>Hi, I'm Neeraj 👋</h1>
+  <p>I am security researcher, and Ph.D. candidate focused on Security and Privacy.</p>
+  <ul>
+    <li>🔐 Federated learning & system security</li>
+    <li>⚙️ C, Python, Docker, Linux</li>
+    <li>📘 Projects: <a href="/projects">Antitoxin</a>, <a href="/projects">SMuF</a></li>
+  </ul>
+  <p><a href="mailto:your@email.com">Email me</a> • <a href="https://github.com/neerajkaram">GitHub</a></p>
 </div>
+
