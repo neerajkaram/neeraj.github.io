@@ -3,9 +3,9 @@
 #
 
 title: Neeraj Karamchandani
-description: Backend & Security Engineer | Ph.D. Candidate
+description: Engineer and Reseracher | Ph.D. Candidate
 author: neerajkaram
-email: neeraj@example.com
+email: #neeraj@example.com
 github_username: neerajkaram
 linkedin_username: neerajkaram
 theme: jekyll-theme-cayman  # modern and clean
@@ -24,12 +24,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: #barryclark/jekyll-now
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: #jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
