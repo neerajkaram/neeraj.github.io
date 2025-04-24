@@ -4,8 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-# About Me
-
 I am currently pursuing my Ph.D. in Computer Science at Penn State, with a focus on security in federated learning. My research explores emerging threats in distributed machine learning, with an emphasis on backdoor injection, threat modeling, and stealthy attack removal. My latest work involves developing a framework for the controlled and stealthy removal of persistent backdoors, challenging existing assumptions in federated learning threat models.
 
 In the past, Ihave worked on IoT security, smart contract analysis, and blockchain security. I am also a Certified Ethical Hacker (CEH v8) through EC-Council.
