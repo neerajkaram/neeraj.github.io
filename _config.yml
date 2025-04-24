@@ -12,7 +12,7 @@ theme: minima  # modern and clean
 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./images/nk.png
+avatar: /images/nk.png
 
 #
 # Flags below are optional
